@@ -50,7 +50,7 @@ Each algorithm has a dedicated UI in Streamlit where users can:
 
 ### 🔹 Future Enhancements  
 🔸 Add more algorithms like Dijkstra’s, Minimax, or Genetic Algorithm.  
-🔸 Improve UI with animations for better visualization.  
+🔸 Improve UI with animations for better visualization and user interaction.  
 🔸 Optimize performance for larger problem instances.  
 
 ### 🔹 Contributors  
