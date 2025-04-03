@@ -43,6 +43,9 @@ Each algorithm has a dedicated UI in Streamlit where users can:
 - **`water_jug_hill_climbing.py`** - Water Jug Problem solver using Hill Climbing.  
 
 ### 🔹 Screenshots  
+![image](https://github.com/user-attachments/assets/b1ce5add-a204-484e-853c-323517e394f6)
+![image](https://github.com/user-attachments/assets/add20b51-c99e-4b8a-b0df-010552e2be55)
+
 
 
 ### 🔹 Future Enhancements  
